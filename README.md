@@ -54,12 +54,7 @@ THEN I should have proper build scripts for a webpack application
 ## Usage
 The following animation demonstrates the application functionality:
 
-![Insomnia demo maislinn](/Assets/Insomnia_Demo_Maislinn_Helfer.png)
-![Insomnia demo Maislinn 2](/Assets/Post_Insomnia_Demo_Maislinn_Helfer.jpg)
-![Insomnia demo Maislinn 3](/Assets/Delete_Insomnia_Demo_Maislinn_Helfer.jpg)
-
-![Video Demo Here](/Assets/Maislinn_Ecommerce_Demo.mp4)
-
+![demo maislinn](/Assets/Demo.png)
 
 
 ## Features
@@ -75,6 +70,7 @@ The following animation demonstrates the application functionality:
 - [GitHub](https://docs.github.com/en)
 - [Stackoverflow](https://stackoverflow.com/)
 - [Heroku](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide)
+- [Heroku Support](//https://devcenter.heroku.com/articles/nodejs-support)
 
 
 ## License

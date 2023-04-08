@@ -55,6 +55,7 @@ THEN I should have proper build scripts for a webpack application
 The following animation demonstrates the application functionality:
 
 ![demo maislinn](/Assets/Demo.png)
+![deployed screenshot](/Assets/Deployed.png)
 
 
 ## Features
@@ -89,6 +90,8 @@ Distributed under the [MIT License](https://opensource.org/license/mit/). See [L
 ## Contributing
 As a UC Berkeley student and tech professional, I want to continue to learn and create effective code. Please reach out to UC Berkeley to access the source code or reach out to me to offer your own solutions. 
 
+
+Heroku Deployed Link: https://text-editor-maislinn.herokuapp.com/
 
 Maislinn Helfer | Github @maislinn
 
